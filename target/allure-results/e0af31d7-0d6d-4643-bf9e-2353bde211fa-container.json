@@ -1,0 +1,1 @@
+{"uuid":"e0af31d7-0d6d-4643-bf9e-2353bde211fa","name":"HealthCare.Basetest.setUp","children":["6b783a8a-ee0e-4d6f-910c-0705a6a924df"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1737470214657,"stop":1737470217872}],"afters":[],"start":1737470214656,"stop":1737470217873}

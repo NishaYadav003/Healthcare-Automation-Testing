@@ -1,0 +1,26 @@
+{
+  "patient": {
+    "givenName": "John",
+    "middleName": "Jake",
+    "familyName": "Smith",
+    "gender": "M",
+    "birthDate": {
+      "day": "11",
+      "month": "2",
+      "year": "1997"
+    },
+    "address": {
+      "address1": "NES Ratnam",
+      "address2": "Near Market",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "postalCode": "400001"
+    },
+    "phone": "123456789",
+    "relationship": {
+      "type": "Parent",
+      "name": "Jake Smith"
+    }
+  }
+}

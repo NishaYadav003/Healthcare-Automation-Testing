@@ -1,0 +1,1 @@
+{"uuid":"1fe8e825-a615-4939-8e31-3cb43f273be4","name":"HealthCare.Basetest.tearDown","children":["6b783a8a-ee0e-4d6f-910c-0705a6a924df"],"description":"","befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1737470268207,"stop":1737470269522}],"start":1737470268207,"stop":1737470269522}

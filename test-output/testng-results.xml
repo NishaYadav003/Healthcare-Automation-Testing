@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-21T20:06:54 IST" name="Default suite" finished-at="2025-01-21T20:07:49 IST" duration-ms="54902">
+    <groups>
+    </groups>
+    <test started-at="2025-01-21T20:06:54 IST" name="Default test" finished-at="2025-01-21T20:07:49 IST" duration-ms="54902">
+      <class name="HealthCare.TestRun">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:HealthCare.TestRun@45312be2]" started-at="2025-01-21T20:06:54 IST" name="setUp" finished-at="2025-01-21T20:06:57 IST" duration-ms="3217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestExecution()[pri:0, instance:HealthCare.TestRun@45312be2]" started-at="2025-01-21T20:06:57 IST" name="TestExecution" finished-at="2025-01-21T20:07:48 IST" duration-ms="50257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestExecution -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:HealthCare.TestRun@45312be2]" started-at="2025-01-21T20:07:48 IST" name="tearDown" finished-at="2025-01-21T20:07:49 IST" duration-ms="1316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- HealthCare.TestRun -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
